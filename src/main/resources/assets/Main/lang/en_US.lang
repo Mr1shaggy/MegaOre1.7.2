@@ -1,4 +1,87 @@
+//Containers
+container.crucibleOven=Smelter
+
+//Tabs
+itemGroup.megaore=Mega Ore Blocks
+itemGroup.megaorematerials=Mega Ore Materials
+itemGroup.megaoretools=Mega Ore Tools
+itemGroup.megaorefood=Mega Ore Food
+
+//Items
 item.CopperIngot.name=Copper Ingot
 item.TinIngot.name=Tin Ingot
 item.NickelIngot.name=Nickel Ingot
 item.AluminumIngot.name=Aluminum Ingot
+item.TinGear.name=Tin Gear
+item.CrystalCoal.name=Crystal Coal
+item.CopperSword.name=Copper Sword
+item.CopperPick.name=Copper Pickaxe
+item.CopperAxe.name=Copper Axe
+item.CopperShovel.name=Copper Shovel
+item.CopperHoe.name=Copper Hoe
+item.TinSword.name=Tin Sword
+item.TinShovel.name=Tin Shovel
+item.TinPick.name=Tin Pickaxe
+item.TinAxe.name=Tin Axe
+item.TinHoe.name=Tin Hoe
+item.NickelSword.name=Nickel Sword
+item.NickelPick.name=Nickel Pickaxe
+item.NickelAxe.name=Nickel Axe
+item.NickelShovel.name=Nickel Shovel
+item.NickelHoe.name=Nickel Hoe
+item.AluminumSword.name=Aluminum Sword
+item.AluminumPick.name=Aluminum Pickaxe
+item.AluminumAxe.name=Aluminum Axe
+item.AluminumShovel.name=Aluminum Shovel
+item.AluminumHoe.name=Aluminum Hoe
+item.RawCrystal.name=Raw Crystal Ore
+item.AluminumHelmet.name=Aluminum Helmet
+item.AluminumChest.name=Aluminum Chestplate
+item.AluminumLegs.name=Aluminum Leggings
+item.AluminumBoots.name=Aluminum Boots
+item.CopperHelmet.name=Copper Helmet
+item.CopperChest.name=Copper Chestplate
+item.CopperLegs.name=Copper Leggings
+item.CopperBoots.name=Copper Boots
+item.NickelHelmet.name=Nickel Helmet
+item.NickelChest.name=Nickel Chestplate
+item.NickelLegs.name=Nickel Leggings
+item.NickelBoots.name=Nickel Boots
+item.TinHelmet.name=Tin Helmet
+item.TinChest.name=Tin Chestplate
+item.TinLegs.name=Tin Leggings
+item.TinBoots.name=Tin Boots
+item.HardenedDiamond.name=Hardened Diamond
+item.HardenedSword.name=Hardened Diamond Sword
+item.HardenedPick.name=Hardened Diamond Pickaxe
+item.HardenedAxe.name=Hardened Diamond Axe
+item.HardenedShovel.name=Hardened Diamond Shovel
+item.HardenedHoe.name=Hardened Diamond Hoe
+item.HardenedHelmet.name=Hardened Diamond Helmet
+item.HardenedChest.name=Hardened Diamond Chestplate
+item.HardenedLegs.name=Hardened Diamond Leggings
+item.HardenedBoots.name=Hardened Diamond Boots
+item.ObsidianIngot.name=Obsidian Ingot
+item.Cheese.name=Cheese
+item.SlicedBread.name=Sliced Bread
+item.Sandwich.name=Sandwich
+
+//Blocks
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+tile.NickelOre.name=Nickel Ore
+tile.AluminumOre.name=Aluminum Ore
+tile.AluminumBlock.name=Aluminum Block
+tile.NickelBlock.name=Nickel Block
+tile.TinBlock.name=Tin Block
+tile.CopperBlock.name=Copper Block
+tile.CrystalBlock.name=Crystal Coal Block
+tile.CrystalOre.name=Crystal Ore
+tile.CrucibleIdle.name=Smelter
+tile.StoneTable.name=Stone Table
+tile.MegaTable.name=Mega Table
+tile.Nether_CopperOre.name=Nether Copper Ore
+tile.Nether_TinOre.name=Nether Tin Ore
+tile.Nether_NickelOre.name=Nether Nickel Ore
+tile.Nether_AluminumOre.name=Nether Aluminum Ore
+
